@@ -1,4 +1,4 @@
-# Vector AI — Frontend
+# Vector AI Mark 1 — Frontend
 ### React + Tailwind + Electron
 
 ---
